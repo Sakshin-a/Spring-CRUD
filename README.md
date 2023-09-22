@@ -1,8 +1,13 @@
-The DEMO folder contains the Spring Boot files: Use Eclipse to import the files
-Go to src/main/resources find application.properties and edit the username, password, and port number of your MySQL WorkBench!
-src and public folder have React application
-Use npm install to install all dependencies
-Dependencies used are react-router-dom, bootstrap, and Axios.
+The DEMO folder contains the Spring Boot files: Use Eclipse to import the files\
+\
+Go to src/main/resources find application.properties and edit the username, password, and port number of your MySQL WorkBench!\
+\
+src and public folder have React application\
+\
+Use npm install to install all dependencies\
+\
+Dependencies used are react-router-dom, bootstrap, and Axios.\
+\
 Use the Edit User Button or POST request through POSTMAN or THUNDERCLIENT to add new users to the table and refresh to find the changes!
 
 
